@@ -8,7 +8,7 @@ Additional features:
 1. Enter all you hashed passwords in a file or use the provided one.
 2. Get a password dictionary file or use the provided one.
 3. Run hash_crack.py
-    `python hash_crack.py`
+    ```python hash_crack.py```
 4. Enter path to password dictionary file.
 5. Enter path to hashed passwords file.
 6. Enter number of threads to launch per hash.
