@@ -1,7 +1,11 @@
 A python script to crack hashed passwords (SHA256), using dictionary attack method.
+
 Additional features:
+
     1. Can check for multiple hashes at once.
+    
     2. Can run multiple threads.
+    
 
 **How to use**
 
