@@ -1,6 +1,3 @@
-Submission By: Gyan Prakash Singh Jaruhar
-Registration Number: 2023UG1091
-
 A python script to crack hashed passwords (SHA256), using dictionary attack method.
 Additional features:
     1. Can check for multiple hashes at once.
